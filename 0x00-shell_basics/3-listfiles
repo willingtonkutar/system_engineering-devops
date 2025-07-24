@@ -1,5 +1,2 @@
 #!/bin/bash
-# Display current directory contents in long format
-
 ls -l
-# The -l option is used to display the contents in long format, which includes file permissions, number of links, owner name, group name, file size, and the time of last modification.
